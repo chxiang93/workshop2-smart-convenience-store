@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "418479130708",
+    "project_id": "conveniencestore-c5795",
+    "storage_bucket": "conveniencestore-c5795.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418479130708:android:93ab984d86733b089b45c1",
+        "android_client_info": {
+          "package_name": "com.example.barcode_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418479130708-u3kmrq3pdicmb65i9p27124sh0oue3ka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.barcode_scanner",
+            "certificate_hash": "c394303b1136bd67abdb875c8e4f8cc7d07561e8"
+          }
+        },
+        {
+          "client_id": "418479130708-f7b1n1up0vg0ma3oe1cvbgavlj4jtsqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjpIYta24ceMD43YSTg3dNFJfMpk7IlpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418479130708-f7b1n1up0vg0ma3oe1cvbgavlj4jtsqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
