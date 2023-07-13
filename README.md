@@ -3,3 +3,27 @@ A smart convenience store system is a retail system that combines traditional co
 
 # System Architecture 
 The system is built with implementation of a convolutional neural network (CNN) transfer learning technique to train a model to recognise the type of product from the input image from the camera using PyTorch library and YOLOv5 model. The system also uses another deep neural network (DNN) model which can count the number of people going inside or going outside of the convenience store using MobileNet Single Shot Detector (SSD) model. Both the pre-trained object detection network model is loaded using OpenCV’s dnn module. This will enable us to pass input images through the network and obtain the output bounding box (x,y) coordinates of each recognized object in the image.
+
+# Full Poster
+
+[Click for full poster](assets/poster.pdf)
+
+# Full Report
+
+[Click for full report](assets/report.pdf)
+
+# Module Developed
+
+![poster module](assets/poster1.jpg)
+
+# Artificial Intelligence Technique
+
+![poster ai](assets/poster2.jpg)
+
+# Accuracy of Artificial Intelligence Technique
+
+![poster result ai](assets/poster3.jpg)
+
+# Group Members
+
+![members](assets/members.jpg)
