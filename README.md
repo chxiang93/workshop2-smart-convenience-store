@@ -24,6 +24,48 @@ The system is built with implementation of a convolutional neural network (CNN) 
 
 ![poster result ai](assets/poster3.jpg)
 
+## Installation
+
+1. You need to have python version 3.10.4 installed in ur computer. If not, can download from  https://www.python.org/downloads/release/python-3104/
+
+2. Clone this github repository
+
+```
+git clone https://github.com/chxiang93/workshop2-smart-convenience-store.git
+```
+
+3. cd to the project directory
+
+```
+cd workshop2-smart-convenience-store
+```
+
+4. Install all the requirements library
+
+```
+pip install -r requirements.txt
+```
+
+5. Before running the system, we need to set up the database first. In phpMyAdmin, create a database call smart_convenience_store
+
+![set up database](assets/setup1.png)
+
+Then, in the smart_convenience_store database, import the smart_convenience_store_phpmyadmin.sql that can be found inside smart-convenience-store code folder.
+
+![set up database](assets/setup2.png)
+
+Figure below shows the database after importing the sql file
+
+![set up database](assets/setup3.png)
+
+6. Run the main program
+
+```
+python LoginPage.py
+```
+
+7. Install the product healthiness module program. Install the barcode_scanner.apk that locate inside the ProductHealthinessModule folder in an android device.
+
 # Group Members
 
 ![members](assets/members.jpg)
