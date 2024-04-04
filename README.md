@@ -12,6 +12,32 @@ The system is built with implementation of a convolutional neural network (CNN) 
 
 [Click for full report](assets/report.pdf)
 
+# Results
+
+### Login Page
+
+![Login Page](assets/login_page.png)
+
+### Home Page
+
+![Home Page](assets/home_page.png)
+
+### Product Detection 
+
+![Product Detection Page](assets/product_detection.png)
+
+### Check Out Page
+
+![Check Out Page](assets/check_out_page.png)
+
+### Monthly Sales Report
+
+![Sales Report](assets/monthly_sale_report.png)
+
+### People Counting Report
+
+![People Counting Report](assets/people_count_report.png)
+
 # Module Developed
 
 ![poster module](assets/poster1.jpg)
